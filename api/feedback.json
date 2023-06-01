@@ -24726,5 +24726,27 @@
     "topic": "Introduction to Galaxy Analyses",
     "month": "2023-05",
     "date": "2023-05-30"
+  },
+  {
+    "": "3109",
+    "note": "5",
+    "pro": null,
+    "con": null,
+    "anonymous": null,
+    "tutorial": "Classification in Machine Learning",
+    "topic": "Statistics and machine learning",
+    "month": "2023-05",
+    "date": "2023-05-31"
+  },
+  {
+    "": "3110",
+    "note": "5",
+    "pro": null,
+    "con": null,
+    "anonymous": null,
+    "tutorial": "Rule Based Uploader",
+    "topic": "Using Galaxy and Managing your Data",
+    "month": "2023-05",
+    "date": "2023-05-31"
   }
 ]
