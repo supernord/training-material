@@ -116,8 +116,7 @@
     "SQL": "Structured Query Language"
   },
   "tags": [
-    "SQL",
-    "jupyter-notebook"
+    "SQL"
   ],
   "last_modified_at": "2022-05-19T13:08:08+00:00",
   "url": "/topics/data-science/tutorials/sql-advanced/tutorial.html",
