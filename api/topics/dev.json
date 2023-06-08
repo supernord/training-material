@@ -1205,6 +1205,9 @@
         "language": "python"
       },
       "last_modified_at": "2022-06-23T09:59:42+00:00",
+      "tags": [
+        "jupyter-notebook"
+      ],
       "url": "/topics/dev/tutorials/bioblend-api/tutorial.html",
       "topic_name": "dev",
       "tutorial_name": "bioblend-api",
