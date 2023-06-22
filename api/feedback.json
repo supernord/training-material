@@ -25045,5 +25045,38 @@
     "topic": "Galaxy Server administration",
     "month": "2023-06",
     "date": "2023-06-19"
+  },
+  {
+    "": "3139",
+    "note": "5",
+    "pro": null,
+    "con": null,
+    "anonymous": null,
+    "tutorial": "A short introduction to Galaxy",
+    "topic": "Introduction to Galaxy Analyses",
+    "month": "2023-06",
+    "date": "2023-06-21"
+  },
+  {
+    "": "3140",
+    "note": "5",
+    "pro": null,
+    "con": null,
+    "anonymous": null,
+    "tutorial": "Annotating a protein list identified by LC-MS/MS experiments",
+    "topic": "Proteomics",
+    "month": "2023-06",
+    "date": "2023-06-21"
+  },
+  {
+    "": "3141",
+    "note": "5",
+    "pro": null,
+    "con": null,
+    "anonymous": null,
+    "tutorial": "A short introduction to Galaxy",
+    "topic": "Introduction to Galaxy Analyses",
+    "month": "2023-06",
+    "date": "2023-06-21"
   }
 ]
