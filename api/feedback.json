@@ -25210,5 +25210,27 @@
     "topic": "Transcriptomics",
     "month": "2023-06",
     "date": "2023-06-30"
+  },
+  {
+    "": "3155",
+    "note": "5",
+    "pro": null,
+    "con": null,
+    "anonymous": null,
+    "tutorial": "An Introduction to Genome Assembly",
+    "topic": "Assembly",
+    "month": "2023-07",
+    "date": "2023-07-05"
+  },
+  {
+    "": "3156",
+    "note": "5",
+    "pro": null,
+    "con": null,
+    "anonymous": null,
+    "tutorial": "A short introduction to Galaxy",
+    "topic": "Introduction to Galaxy Analyses",
+    "month": "2023-07",
+    "date": "2023-07-05"
   }
 ]
