@@ -1014,8 +1014,7 @@
       },
       "priority": 3,
       "tags": [
-        "R",
-        "rmarkdown-notebook"
+        "R"
       ],
       "license": "MIT",
       "last_modified_at": "21-Dec-21",
@@ -2962,8 +2961,7 @@
       },
       "tags": [
         "SQL",
-        "R",
-        "rmarkdown-notebook"
+        "R"
       ],
       "last_modified_at": "21-Dec-21",
       "url": "/topics/data-science/tutorials/sql-r/tutorial.html",
