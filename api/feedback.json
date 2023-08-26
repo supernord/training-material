@@ -25606,5 +25606,16 @@
     "topic": "Genome Annotation",
     "month": "2023-08",
     "date": "2023-08-23"
+  },
+  {
+    "": "3191",
+    "note": "5",
+    "pro": "the hands-on part works. It is simple and clear",
+    "con": null,
+    "anonymous": null,
+    "tutorial": "Taxonomic Profiling and Visualization of Metagenomic Data",
+    "topic": "Metagenomics",
+    "month": "2023-08",
+    "date": "2023-08-25"
   }
 ]
