@@ -25826,5 +25826,16 @@
     "topic": "Using Galaxy and Managing your Data",
     "month": "2023-09",
     "date": "2023-09-12"
+  },
+  {
+    "": "3211",
+    "note": "5",
+    "pro": null,
+    "con": null,
+    "anonymous": null,
+    "tutorial": "DNA Methylation data analysis",
+    "topic": "Epigenetics",
+    "month": "2023-09",
+    "date": "2023-09-14"
   }
 ]
