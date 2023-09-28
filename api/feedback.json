@@ -25980,5 +25980,16 @@
     "topic": "Transcriptomics",
     "month": "2023-09",
     "date": "2023-09-26"
+  },
+  {
+    "": "3228",
+    "note": "5",
+    "pro": "A brief guide that is easy to understand when you first come into contact with the galaxy",
+    "con": null,
+    "anonymous": null,
+    "tutorial": "A short introduction to Galaxy",
+    "topic": "Introduction to Galaxy Analyses",
+    "month": "2023-09",
+    "date": "2023-09-27"
   }
 ]
