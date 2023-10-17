@@ -2376,3 +2376,5 @@
 3243,5,,,,A short introduction to Galaxy,Introduction to Galaxy Analyses,2023-10,2023-10-06
 3244,5,,,,JupyterLab in Galaxy,Using Galaxy and Managing your Data,2023-10,2023-10-06
 3247,3,,"The url for one of the datasets is incorrect. The correct url is ""https://zenodo.org/records/1489208/files/Trimmed_ref_5000_uniprot_cRAP.fasta""",,Proteogenomics 1: Database Creation,Proteomics,2023-10,2023-10-13
+3248,5,,,,A short introduction to Galaxy,Introduction to Galaxy Analyses,2023-10,2023-10-16
+3249,5,,,,Identification of the micro-organisms in a beer using Nanopore sequencing,Metagenomics,2023-10,2023-10-16
