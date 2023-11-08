@@ -2400,3 +2400,4 @@
 3271,5,,More examples of poor quality reads.,,Quality Control,Sequence analysis,2023-11,2023-11-03
 3272,5,"Very clear, providing a first glance on the main actions with Galaxy.","Maybe the tutorial should be updated according to new versions of web Galaxy. Also, the reason for the second renaming (as ""FASTQ reads"") during the creation of a workflow is not well justified.",,A short introduction to Galaxy,Introduction to Galaxy Analyses,2023-11,2023-11-03
 3273,5,,,,A short introduction to Galaxy,Introduction to Galaxy Analyses,2023-11,2023-11-04
+3274,4,The step by step process is well explained,"I as not able to comple some steps, like converting the resistance gene table to gf3",,Identification of the micro-organisms in a beer using Nanopore sequencing,Metagenomics,2023-11,2023-11-07
