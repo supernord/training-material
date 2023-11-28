@@ -26552,5 +26552,16 @@
     "topic": "Introduction to Galaxy Analyses",
     "month": "2023-11",
     "date": "2023-11-24"
+  },
+  {
+    "": "3288",
+    "note": "5",
+    "pro": null,
+    "con": null,
+    "anonymous": null,
+    "tutorial": "From NCBI's Sequence Read Archive (SRA) to Galaxy: SARS-CoV-2 variant analysis",
+    "topic": "Variant Analysis",
+    "month": "2023-11",
+    "date": "2023-11-27"
   }
 ]
